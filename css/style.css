@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fredoka:wght@500&family=Lato&family=Montserrat:wght@100;200;300;400;500;700&family=News+Cycle&family=Poppins&family=Roboto&family=Secular+One&display=swap');
+
+.kiri{
+    background: #003974;
+    height: 100vh;
+    display: block;
+}
+
+img{
+    display: block;
+    
+}
+
+.logo{
+    display: flex;
+}
+
+.tiga{
+    margin-top: 450px;
+}
+
+p{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: normal;
+    margin-top: 76px;
+}
+
+a{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.merah{
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+h1{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: normal;
+    line-height: normal;
+    margin-top: 76px;
+}
+
+.edit{
+    width: 100px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #003974;
+    border: none;
+    color: white;
+}
+
+.hapus{
+    width: 100px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #FF5151;
+    border: none;
+    color: white;
+}
+
+.kanan{
+    margin: 80px;
+}
+
+.input{
+    color: #003974;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+form{
+    width: 70%;
+    height: 400px;
+    display: block;
+    margin: 120px auto;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 50px;
+    box-shadow: 0px 13px 29px 0px rgba(0, 0, 0, 0.10), 0px 53px 53px 0px rgba(0, 0, 0, 0.09), 0px 119px 72px 0px rgba(0, 0, 0, 0.05), 0px 212px 85px 0px rgba(0, 0, 0, 0.01), 0px 332px 93px 0px rgba(0, 0, 0, 0.00);
+}

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fredoka:wght@500&family=Lato&family=Montserrat:wght@100;200;300;400;500;700&family=News+Cycle&family=Poppins&family=Roboto&family=Secular+One&display=swap');
+.kanan{
+    background-image: url(../img/Rectangle\ 43.svg);
+    height: 100vh;
+}
+
+.foto{
+    width: 450px;
+    height: 300px;
+    flex-shrink: 0;
+    display: block;
+    margin: 250px auto;
+}
+
+.form{
+    height: 100vh;
+}
+
+form{
+    width: 60%;
+    display: block;
+    margin: 100px auto;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 120px;
+}
+
+.logo{
+    color: #003974;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 26px;
+}
+
+p{
+    color: #003974;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: normal;
+    margin-top: 76px;
+}
+
+label{
+    color: #003974;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+button{
+    width: 100%;
+    color: white;
+    border: none;
+    height: 50px;
+    background: #003974;
+}
